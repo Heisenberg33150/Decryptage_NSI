@@ -1,0 +1,18 @@
+body
+{
+    background-color: slategray;
+    /*background-image: url(gif/hack-fond.gif);
+    opacity: 0.5;*/
+}
+
+h1
+{
+    text-align: center;
+    font-size: 8em;
+}
+
+.intro
+{
+    font-size: 2em;
+    text-align: center;
+}
